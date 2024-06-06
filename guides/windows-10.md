@@ -1,5 +1,3 @@
 ---
-title: Windows 10
-parent: Guides
-redirect_to: guides/windows/
+title: What the Dog doin💀
 ---
